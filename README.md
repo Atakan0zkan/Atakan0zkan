@@ -1,7 +1,7 @@
 <h2 align="center">⚡ Vibe coder | Player | Creator ⚡</h2>
 
 <p align="center">
-  <b>Atakan Özkan, 24 years old developer from Türkiye 🇹🇷</b><br><br>
+  <b>Atakan Özkan, 24 years old developer from Türkiye</b><br><br>
   
   🐍 Python & React enthusiast <br>
   📱 Building Android apps with React Native <br>
@@ -9,7 +9,7 @@
   🧠 AI, automation & clean code enthusiast <br>
   🧩 Building small tools & apps to learn faster <br>
   🌱 Learning backend + Android app integration <br>
-  🎮 Former esports player turned developer <br><br>
+  🎮 Former esports player turned developer <br>
   <i>“Learning by doing — not by theory”</i>
 </p>
 <br>

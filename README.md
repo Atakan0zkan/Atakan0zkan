@@ -10,6 +10,7 @@
   🧩 Building small tools & apps to learn faster <br>
   🌱 Learning backend + Android app integration <br>
   🎮 Former esports player turned developer <br>
+  
   <i>“Learning by doing — not by theory”</i>
 </p>
 <br>

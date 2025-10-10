@@ -20,9 +20,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtakanOzkan&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtakanOzkan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-<br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/atakan-%C3%B6zkan-a38a15176/">
-    <img src="https://img.shields.io/badge/LinkedIn-Atakan%20Özkan-black?style=for-the-badge&logo=linkedin&logoColor=red"/>
-  </a>
-</p>
+
+<i>“Learning by doing — not by theory”</i>

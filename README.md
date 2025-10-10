@@ -10,10 +10,7 @@
   🧩 Building small tools & apps to learn faster <br>
   🌱 Learning backend + Android app integration <br>
   🎮 Former esports player turned developer <br>
-  
-  <i>“Learning by doing — not by theory”</i>
 </p>
-<br>
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AtakanOzkan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br><br>

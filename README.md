@@ -3,12 +3,12 @@
 <p align="center">
   <b>Atakan Özkan, 24 years old developer from Türkiye</b><br><br>
   
-  🐍 Python & React enthusiast <br>
-  📱 Building Android apps with React Native <br>
-  🌊 Coding with <b>Windsurf</b> <br>
+  🐍 Python & Flutter enthusiast <br>
+  📱 Building Android and iOS apps with Flutter <br>
+  🌊 Coding with <b>Antigravity</b> <br>
   🧠 AI, automation & clean code enthusiast <br>
   🧩 Building small tools & apps to learn faster <br>
-  🌱 Learning backend + Android app integration <br>
+  🌱 Learning backend + Android & iOS app integration <br>
   🎮 Former esports player turned developer <br>
 </p>
 <h3 align="center">📊 GitHub Stats</h3>

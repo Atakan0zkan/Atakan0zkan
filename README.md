@@ -3,11 +3,11 @@
 <p align="center">
   <b>Atakan Özkan, 24 years old developer from Türkiye</b><br><br>
   
-  🐍 Python & Flutter enthusiast <br>
+  🐍 Python & Flutter lover <br>
   📱 Building Android and iOS apps with Flutter <br>
   🌊 Coding with <b>Antigravity</b> <br>
   🧠 AI, automation & clean code enthusiast <br>
-  🧩 Building small tools & apps to learn faster <br>
+  🧩 Building small tools & apps <br>
   🌱 Learning backend + Android & iOS app integration <br>
   🎮 Former esports player turned developer <br>
 </p>

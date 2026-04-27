@@ -1,7 +1,7 @@
 <h2 align="center">⚡ Vibe coder | Player | Creator ⚡</h2>
 
 <p align="center">
-  <b>Atakan Özkan, 24 years old developer from Türkiye</b><br><br>
+  <b>Atakan Özkan, 25 years old developer from Türkiye</b><br><br>
   
   🐍 Python & Flutter lover <br>
   📱 Building Android and iOS apps with Flutter <br>

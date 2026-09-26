@@ -45,7 +45,7 @@
 
 <h3 align="center">🐍 Contributions</h3>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtakanOzkan/AtakanOzkan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtakanOzkan/AtakanOzkan/output/github-snake.svg" />
-  <img width="96%" alt="github-snake" src="https://raw.githubusercontent.com/AtakanOzkan/AtakanOzkan/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtakanOzkan/AtakanOzkan/output/github-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtakanOzkan/AtakanOzkan/output/github-snake.svg?v=1" />
+  <img width="96%" alt="github-snake" src="https://raw.githubusercontent.com/AtakanOzkan/AtakanOzkan/output/github-snake.svg?v=1" />
 </picture>

@@ -49,4 +49,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtakanOzkan/AtakanOzkan/output/github-snake.svg" />
   <img width="96%" alt="github-snake" src="https://raw.githubusercontent.com/AtakanOzkan/AtakanOzkan/output/github-snake.svg" />
 </picture>
-

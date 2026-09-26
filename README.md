@@ -43,9 +43,3 @@
   <img src="https://img.shields.io/badge/%F0%9F%A4%9D_Collaborations-Open-F88300?style=for-the-badge&labelColor=8B4000" alt="Collaborations" />
 </p>
 
-<h3 align="center">🐍 Contributions</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtakanOzkan/AtakanOzkan/output/github-snake-dark.svg?v=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtakanOzkan/AtakanOzkan/output/github-snake.svg?v=1" />
-  <img width="96%" alt="github-snake" src="https://raw.githubusercontent.com/AtakanOzkan/AtakanOzkan/output/github-snake.svg?v=1" />
-</picture>
